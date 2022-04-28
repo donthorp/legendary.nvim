@@ -475,7 +475,7 @@ local augroups = {
 ## Lua API
 
 You can also manually bind new items after you've already called `require('legendary').setup()`.
-This can be useful for things like binding language-specific keyaps in the LSP `on_attach` function.
+This can be useful for things like binding language-specific keymaps in the LSP `on_attach` function.
 
 The following API functions are available:
 
